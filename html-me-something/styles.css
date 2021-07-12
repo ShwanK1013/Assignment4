@@ -11,13 +11,9 @@ body {
 	
 }
 p {
-	font-size: larger
-}
-p {
+	font-size: larger;
 	margin-top: 0;
 	text-align: justify;
-}
-p {
 	font: italic normal 1em georgia, sans-serif;
 	letter-spacing: 1px;
 	margin-bottom: 0;
